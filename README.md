@@ -6,3 +6,5 @@ this is the #task 1 of my internship at The sparks foundation of DATA SCIENCE AN
 the data set was of sample superstore which consist of 16 column and 9994 rows
 -targets to analyse were to find out the weak are where u can work to  make more profit
 -to derive the business problems by exploring the data
+
+thankyou
